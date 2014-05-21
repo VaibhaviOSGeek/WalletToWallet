@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>748411F0-C33F-4710-8737-DB460C3531F7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WalletToWallet</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>561BA958-ED83-428B-8C70-D0426608F10D</key>
+		<string>https://github.com/VaibhaviOSGeek/WtoW.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WalletToWallet.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>561BA958-ED83-428B-8C70-D0426608F10D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/VaibhaviOSGeek/WtoW.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>561BA958-ED83-428B-8C70-D0426608F10D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>561BA958-ED83-428B-8C70-D0426608F10D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WtoW</string>
+		</dict>
+	</array>
+</dict>
+</plist>
